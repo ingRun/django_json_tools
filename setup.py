@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-from setuptools import setup, find_packages
+from setuptools import setup
 
-VERSION = '1.0.5'
+VERSION = '1.0.0'
 
 setup(
     name='django_json_tools',  # 库的名称,一般写成文件夹的名字就可以了 pip install 'XXX'
